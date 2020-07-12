@@ -27,10 +27,10 @@ I am **addicted to green dots** on [GitHub](https://github.com/Prodip2416?tab=re
 
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/Prodip2416)! :v:
 
-<a href="https://twitter.com/Prodip_diu" target="_blank"><img src="https://raw.githubusercontent.com/Prodip_diu/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/aushomapto.prodip"><img src="https://raw.githubusercontent.com/aushomapto.prodip/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/prodip2416/"><img src="https://raw.githubusercontent.com/prodip2416/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/Prodip_diu"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/aushomapto.prodip"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/prodip2416/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a>
 
 
-<!-- ----
+----
 ```javascript
 
 if (_.isAwesome(thisRepo)) {
@@ -38,8 +38,8 @@ if (_.isAwesome(thisRepo)) {
 }
 
 ```
----- -->
+----
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Prodip_diu?style=social)](https://twitter.com/Prodip_diu) [![GitHub followers](https://img.shields.io/github/followers/prodip2416.svg?label=Follow%20@prodip2416&style=social)](https://github.com/Prodip2416)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Prodip_diu) [![GitHub followers](https://img.shields.io/github/followers/prodip2416.svg?label=Follow%20@prodip2416&style=social)](https://github.com/Prodip2416)
 
 

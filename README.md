@@ -11,7 +11,7 @@
 
 <!-- <sup>**[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
-**Check out links below** to know [more](https://github.com/vinitshahdeo/vinitshahdeo/blob/master/ABOUT.md) about me:
+**Check out links below** to know [more](https://github.com/Prodip2416/prodip2416/blob/master/ABOUT.md) about me:
 
 **Say Hi on Twitter([@Prodip_diu](https://twitter.com/Prodip_diu))!** :heart: 💬
 
