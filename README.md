@@ -16,7 +16,7 @@
 **Say Hi on Twitter([@Prodip_diu](https://twitter.com/Prodip_diu))!** :heart: 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Prodip_diu?style=social)](https://twitter.com/Prodip_diu)
-
+| [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@prodip2416&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/prodip2416/)
 <!--
 **vinitshahdeo/vinitshahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
