@@ -11,11 +11,11 @@ I am **addicted to green dots** on [GitHub](https://github.com/Prodip2416?tab=re
 
 ### :gear: My skills include:
 
-- **Languages**: `C`, `C#`, `JavaScript`,`OOP`
+- **Languages**: `C`, `C#`, `JavaScript`,`TypeScript`,`OOP`
 
-- **Frontend**: `HTML5`, `CSS3`, `REACT`
+- **Frontend**: `HTML5`, `CSS3`, `Angular`
 
-- **Backend**: `ASP.NET`,`Web API`
+- **Backend**: `ASP.NET`,`Asp.Net Core Web API`
 
 - **Databases**: `MS SQL`
 
