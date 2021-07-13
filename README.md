@@ -13,11 +13,11 @@ I am **addicted to green dots** on [GitHub](https://github.com/Prodip2416?tab=re
 
 - **Languages**: `C`, `C#`, `JavaScript`,`TypeScript`,`OOP`
 
-- **Frontend**: `HTML5`, `CSS3`, `Angular`
+- **Frontend**: `HTML5`, `CSS3`, `React`,`Angular`,`Bootstrap`,`Material UI`
 
-- **Backend**: `ASP.NET`,`Asp.Net Core Web API`
+- **Backend**: `Node`,`Next JS`,`Express`,`Asp.Net Core Web API`
 
-- **Databases**: `MS SQL`
+- **Databases**: `MS SQL`,`Mongo DB`
 
 - **Technical Practices**: *Agile*, *Test Driven Development*
 
