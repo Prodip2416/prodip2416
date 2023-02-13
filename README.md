@@ -11,9 +11,9 @@ I am **addicted to green dots** on [GitHub](https://github.com/Prodip2416?tab=re
 
 ### :gear: My skills include:
 
-- **Languages**: `C#`, `JavaScript`,`TypeScript`,`OOP`
+- **Languages**: `JavaScript`,`SQL`
 
-- **Frontend**: `HTML5`, `CSS3`, `React`,`Angular`,`Bootstrap`,`Material UI`,`AntD`
+- **Frontend**: `HTML5`, `CSS3`, `React`,`AntD`, `Redux`
 
 - **Backend**: `Node`,`Nest JS`,`Express`,`Asp.Net Core Web API`
 
