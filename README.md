@@ -11,13 +11,11 @@ I am **addicted to green dots** on [GitHub](https://github.com/Prodip2416?tab=re
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`,`SQL`
+- **Frontend**: `HTML5`, `CSS3`, `JavaScript`, `React`, `AntD`, `Redux`
 
-- **Frontend**: `HTML5`, `CSS3`, `React`,`AntD`, `Redux`
+- **Backend**: `Node`,`Nest JS`
 
-- **Backend**: `Node`,`Nest JS`,`Express`,`Asp.Net Core Web API`
-
-- **Databases**: `MS SQL`,`Postgresql`,`Mongo DB`
+- **Databases**: `MS SQL`
 
 - **Technical Practices**: *Agile*, *Test Driven Development*
 
