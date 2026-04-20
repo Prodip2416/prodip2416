@@ -63,7 +63,7 @@ const prodip = {
 <img src="https://github-readme-stats.vercel.app/api?username=Prodip2416&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prodip2416&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=6366f1&fire=f59e0b&currStreakLabel=0ea5e9" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodip2416&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodip2416&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=C%23,Java,ASP,Liquid,Shell,Dockerfile" width="48%" />
 
 </div>
 
