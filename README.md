@@ -66,20 +66,6 @@ const prodip = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![linguaguard](https://github-readme-stats.vercel.app/api/pin/?username=Prodip2416&repo=linguaguard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9)](https://github.com/Prodip2416/linguaguard)
-[![tailwind-kit](https://github-readme-stats.vercel.app/api/pin/?username=Prodip2416&repo=tailwind-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9)](https://github.com/Prodip2416/tailwind-kit)
-
-[![nestjs-auth-kit](https://github-readme-stats.vercel.app/api/pin/?username=Prodip2416&repo=nestjs-auth-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9)](https://github.com/Prodip2416/nestjs-auth-kit)
-[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Prodip2416&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9)](https://github.com/Prodip2416/my-portfolio)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
