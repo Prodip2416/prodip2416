@@ -16,7 +16,7 @@ const prodip = {
   role:       "Full-Stack Developer",
   location:   "Dhaka, Bangladesh 🇧🇩",
   experience: "5+ years",
-  stack:      ["React.js", "Next.js", "NestJS", "TypeScript", "TailwindCSS"],
+  stack:      ["JavaScript", "TypeScript", "React.js", "Next.js", "NestJS",  "TailwindCSS"],
   currently:  "Open to Remote Opportunities 🌍",
   building:   "linguaguard — MCP server for i18n management",
   portfolio:  "https://sarker-portfolio.netlify.app/",
