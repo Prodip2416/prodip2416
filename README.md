@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Prodip%20Sarker&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Prodip%20Sarker&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20NestJS%20%7C%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+beautiful+UIs+since+2018+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Open+to+Remote+Opportunities+%F0%9F%8C%8D;Crafting+scalable+web+experiences+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+5%2B+Years+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,11 +13,11 @@
 ```ts
 const prodip = {
   name:       "Prodip Sarker",
-  role:       "Front-End Developer",
+  role:       "Full-Stack Developer",
   location:   "Dhaka, Bangladesh 🇧🇩",
   experience: "5+ years",
-  focus:      ["React", "Next.js", "TypeScript", "TailwindCSS"],
-  currently:  "Open to remote front-end opportunities",
+  stack:      ["React.js", "Next.js", "NestJS", "TypeScript", "TailwindCSS"],
+  currently:  "Open to Remote Opportunities 🌍",
   building:   "linguaguard — MCP server for i18n management",
   portfolio:  "https://sarker-portfolio.netlify.app/",
 };
