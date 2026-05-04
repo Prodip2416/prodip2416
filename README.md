@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About 
 
 ```ts
 const prodip = {
